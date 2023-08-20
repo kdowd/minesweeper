@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=ytKOmS8vJng&ab_channel=Dard
+
+
+Top Left:
+Mines left to click upon.
+Timer ?
+
+
+Each cell can be:
+Empty Cell/Blank - means there are no mines surrounding - you can be gifted a clearing/an opening...
+Contain a number from 1 to 8 for the eight surrounding cells
+Contain a mine
+
+Right click on a cell to flag the mine
